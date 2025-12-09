@@ -1,0 +1,8 @@
+numpy
+opencv-python
+onnxruntime-gpu
+kaldi-native-fbank
+fastapi
+uvicorn
+soundfile
+scipy

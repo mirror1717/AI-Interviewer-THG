@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时临时文件
+*.log
+*.tmp
+
+# 不上传的运行时数据
+stream_data/
+
+# 虚拟环境目录（如果有）
+venv/
+.env/
+
+# Docker 构建缓存不需要上传
+*.tar
+*.gz
+
+# 其他可能的大文件
+*.mp4
+*.wav
+*.onnx
+*.pth
+*.pt

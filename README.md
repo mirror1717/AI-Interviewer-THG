@@ -1,4 +1,5 @@
-dihuman_core里面封装着流式推理的类
+dihuman_core.py里面封装着流式推理的类
 
 server.py是进行流式推理的代码
 
+digital_human.ipynb里面包含着训练和推理用到的全部命令，有需要的时候根据注释说明直接运行就可以
